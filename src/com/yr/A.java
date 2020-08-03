@@ -6,4 +6,5 @@ public class A {
     private String name;
     private String jiejie;
     private String jiejiea;
+    private String addr;
 }
