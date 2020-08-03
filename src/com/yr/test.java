@@ -5,6 +5,7 @@ public class test {
         System.out.println("这是测试4号");
         System.out.println("平萝莉");
 
+
         System.out.println(32);
         System.out.println(3434);
 
